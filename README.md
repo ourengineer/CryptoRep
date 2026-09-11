@@ -179,10 +179,3 @@ CryptoRep is a conceptual and technical prototype for a software rights and roya
 
 This is not merely a payout script; it is a foundation for rethinking how developers are recognized and rewarded in a global digital economy.
 
-## License
-
-This project is presented as a prototype and may include proprietary or restricted legal language in the corporate organization materials. Review and adapt licensing terms before commercial or public deployment.
-
----
-
-Created for the concept of a worldwide, contribution-based software royalty organization inspired by ASCAP/BMI-style rights distribution models.
